@@ -1,6 +1,6 @@
 ## Hyperion Relay 📡
 
-![Atlas-Gateway](https://github.com/SentinelSec-Development/Hyperion-Relay/blob/main/Images/HRDevPreview.png)
+![Hyperion Relay](https://github.com/SentinelSec-Development/Hyperion-Relay/blob/main/Images/HRDevPreview.png)
 
 
 Hyperion-Relay is a secure system designed to:
