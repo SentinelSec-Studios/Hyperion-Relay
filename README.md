@@ -4,7 +4,7 @@
 
 
 Hyperion-Relay is a secure system designed to:
-- Proxy client data to the service.
+- Proxy client data to a specified service.
 
 
 ## Future features
